@@ -8,6 +8,10 @@ public class Television extends ElectronicDevice {
     }
     public void turnOff() {}
     
-    public void changeChannel(int channel) {}
-    public void initializeScreen() {}
+    public void changeChannel(int channel) {
+       System.out.println(" Channel 1");
+    }
+    public void initializeScreen() {
+       System.out.println("initialized....");
+    }
 }
