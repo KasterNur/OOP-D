@@ -1,1 +1,30 @@
+Week2:
 
+week_3:
+      Packages 
+           problem: same name of class allowed if in different package
+           Java’s standard library, for example, java.util ; java.io ; java.jdbc; java.net ; java.nio; 
+     Class importation
+                          import java.lang.Math;
+                          public class importTest {
+                            double x = sqrt(1.44);
+                          } 
+     To emphasize on data encapsulation 
+                  private --> {get ; set}
+      Naming conventions
+               package
+               Class 
+              variable, field and method names
+              CONSTANT NAME 
+              Multi-word names: HelloWorld
+     Class Abstraction
+
+Conculsion:
+          Declaring and Creating Objects
+          Constructors
+          Modifiers (public, private and static)
+          Instance and Class Variables and Methods
+          Scope of Variables
+          Use the this Keyword
+          Relationships among Classes
+          The Java API and Core Java classes 
