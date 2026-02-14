@@ -1,6 +1,6 @@
 
 overview 
-    prepurse
+    purpose
     4 principls
 
 1. 
